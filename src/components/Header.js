@@ -3,10 +3,10 @@ export default function Header() {
         <header className="header">
             <h2>FunEvents</h2>
             <nav>
-                <a href="#">Home</a>
-                <a href="#">Services</a>
-                <a href="#">Gallery</a>
-                <a href="#">Contact</a>
+                <a href="/">Home</a>
+                <a href="/services">Services</a>
+                <a href="/gallery">Gallery</a>
+                <a href="/contact">Contact</a>
             </nav>
         </header>
     );
